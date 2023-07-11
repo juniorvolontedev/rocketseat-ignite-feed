@@ -1,6 +1,8 @@
+<p align="center">
 ![Logo](https://raw.githubusercontent.com/juniorvolontedev/rocketseat-ignite-feed/main/src/assets/ignite-logo.svg)
+</p>
 
-# Ignite Feed
+<h1 align="center">Ignite Feed</h1>
 
 Projeto desenvolvido durante o curso de React JS no Programa Ignite da @rocketseat.
 
