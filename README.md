@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso de React JS no Programa Ignite da @rocketseat.
 
-# Objetivo
+## Objetivo
 
 O objetivo deste projeto foi aprender os fundamentos do React JS e TypeScript.
 
