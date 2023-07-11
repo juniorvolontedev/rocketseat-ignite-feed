@@ -2,6 +2,10 @@
 
 Projeto desenvolvido durante o curso de React JS no Programa Ignite da @rocketseat.
 
+# Objetivo
+
+O objetivo deste projeto foi aprender os fundamentos do React JS e TypeScript.
+
 ![App Screenshot](https://raw.githubusercontent.com/juniorvolontedev/rocketseat-ignite-feed/main/src/assets/screenshot.png)
 
 ## Rodando o projeto
